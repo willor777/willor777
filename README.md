@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @willor777
-- 👀 I’m interested in algorithmic trading in python.
+- 👀 I’m interested in algorithmic trading in python, and App / Desktop development in Java.
 - Python is my first language and i began it in September 2020
