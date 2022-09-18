@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @willor777
-- 👀 I’m interested in algorithmic trading in python, and App / Desktop development in Java.
-- Python is my first language and i began it in September 2020. 
-- Java is my second language and i began it October 2021
+- My main interests are in Android Development as well as Desktop via JVM
+- Languages include Java, Python, Kotlin
+- Favorite GUI framework is Compose
+- Skilled at multi-threaded and async design
+- Personal Webpage... https://www.digitalalchemysoftware.com/
